@@ -113,8 +113,8 @@ const Hero = () => {
                 Get In Touch <FaArrowRight />
               </button>
               <a
-                href="/Manoj B.pdf"
-                download="Manoj-B-Resume.pdf"
+                href="./Manoj B.pdf"
+                download="Manoj B Resume.pdf"
                 className="btn btn-secondary"
               >
                 <FaDownload /> Download CV
